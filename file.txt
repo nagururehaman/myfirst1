@@ -1,5 +1,5 @@
-this is first line
+this is first line (alternative)
 new code
-for the 
+for the (alternative)
 gitbash
 end of the code
