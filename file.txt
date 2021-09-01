@@ -1,5 +1,5 @@
 this is first line
 new code
-for the 
+for the chnaged line
 gitbash
-end of the code
+end of the code changed line in end.
